@@ -1,0 +1,10 @@
+com\university\userprofile\config\DataInitializer.class
+com\university\userprofile\dto\UserUpdateDTO.class
+com\university\userprofile\model\UserClass.class
+com\university\userprofile\model\UserRole.class
+com\university\userprofile\model\User.class
+com\university\userprofile\service\UserService.class
+com\university\userprofile\repository\UserRepository.class
+com\university\userprofile\model\UserKnowledgeCenter.class
+com\university\userprofile\UserProfileApplication.class
+com\university\userprofile\controller\UserController.class
